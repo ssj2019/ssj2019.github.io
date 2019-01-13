@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush');
+
+.MainTitle {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 70px;
+}
+
+.title {
+  font-family: 'Caveat Brush', cursive;
+}
+
+.subtitle {
+  font-family: 'Caveat Brush', cursive;
+}
+
+.background-one {
+  background-image: url("../img/01.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
+
+.background-two {
+  background-image: url("../img/02.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
+
+.background-three {
+  background-image: url("../img/03.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
+
+.background-four {
+  background-image: url("../img/04.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
