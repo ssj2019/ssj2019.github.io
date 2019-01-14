@@ -56,3 +56,69 @@
   background-blend-mode: darken;
   transition: 3s;
 }
+
+.background-five {
+  background-image: url("../img/05.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
+
+.background-six {
+  background-image: url("../img/06.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
+
+.background-seven {
+  background-image: url("../img/07.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
+
+.background-eight {
+  background-image: url("../img/08.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
+
+.background-nine {
+  background-image: url("../img/09.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
+
+.background-ten {
+  background-image: url("../img/10.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}
