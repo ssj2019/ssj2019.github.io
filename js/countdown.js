@@ -3,7 +3,7 @@ const second = 1000,
       hour = minute * 60,
       day = hour * 24;
 
-let countDown = new Date('Apr 18, 2019 18:10:00').getTime(),
+let countDown = new Date('Apr 9, 2020 18:15:00').getTime(),
     x = setInterval(function() {
 
       let now = new Date().getTime(),
